@@ -1,17 +1,19 @@
 # Cybersecurity Learning Journey
 
-Hi 👋 I'm Telmo and I'm learning cybersecurity.
+Hi 👋 I’m learning cybersecurity and building skills through structured, vendor-recognised pathways.
 
-## Current Progress
-- Cisco NetAcad: Introduction to Cybersecurity – Completed Module 2
-- TryHackMe: Working through Pre-Security Path
+## Current Focus
+Cisco **Junior Cybersecurity Analyst Career Path** (Skills for All / NetAcad)
 
 ## Goals
 - Build strong networking & Linux fundamentals
 - Complete Cisco Cybersecurity Essentials
 - Start hands-on labs and projects
+  
 
 ## Current Progress
-- Cisco NetAcad: Introduction to Cybersecurity – Completed (Badge earned)
-- Cisco Skills for All: Getting Started with Packet Tracer – Completed
-- Cisco Skills for All: Networking Basics – Module 1 completed
+- 2026-01-26 — Cisco NetAcad: Introduction to Cybersecurity — Completed (Badge earned)
+- 2026-01-27 — Cisco Skills for All: Getting Started with Packet Tracer — Completed
+- 2026-01-28 — Cisco Skills for All: Networking Basics — Module 1 completed
+- 2026-01-28 — Cisco Skills for All: Networking Basics — Module 2 completed
+
