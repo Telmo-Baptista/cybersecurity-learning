@@ -10,3 +10,8 @@ Hi 👋 I'm Telmo and I'm learning cybersecurity.
 - Build strong networking & Linux fundamentals
 - Complete Cisco Cybersecurity Essentials
 - Start hands-on labs and projects
+
+## Current Progress
+- Cisco NetAcad: Introduction to Cybersecurity – Completed (Badge earned)
+- Cisco Skills for All: Getting Started with Packet Tracer – Completed
+- Cisco Skills for All: Networking Basics – Module 1 completed
