@@ -16,4 +16,4 @@ Cisco **Junior Cybersecurity Analyst Career Path** (Skills for All / NetAcad)
 - 2026-01-27 — Cisco Skills for All: Getting Started with Packet Tracer — Completed
 - 2026-01-28 — Cisco Skills for All: Networking Basics — Module 1 completed
 - 2026-01-28 — Cisco Skills for All: Networking Basics — Module 2 completed
-
+- 2026-08-23 — Cisco Networking Basics — Module 4 completed (including Packet Tracer activity, module exam and checkpoint exam)
